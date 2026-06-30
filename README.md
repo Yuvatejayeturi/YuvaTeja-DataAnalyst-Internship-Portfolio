@@ -1,4 +1,6 @@
 # Data Analyst Internship Portfolio
+## Project Overview
+This portfolio showcases my Data Analyst Internship project on Netflix Content Analysis. Throughout the internship, I performed data cleaning, exploratory data analysis, dashboard development, statistical validation, and business storytelling using Python, Power BI, and statistical methods.
 ## About Me
 Hello! My name is Yuva Teja. I completed a Data Analyst Internship where I worked on an end-to-end Netflix Content Analysis project using Python, Power BI, and statistical analysis.
 ---
