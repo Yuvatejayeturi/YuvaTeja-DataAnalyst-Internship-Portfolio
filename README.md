@@ -9,25 +9,25 @@ data analysis, visualization, and business intelligence.
 - Missing Value Handling
 - Data Transformation
 Repository:
-https://github.com/username/task1
+https://github.com/Yuvatejayeturi/Task-1-Data-Wrangling
 ---
 ### Task 2: Exploratory Data Analysis
 - Statistical Analysis
 - Visualizations
 - Business Insights
 Repository:
-https://github.com/username/task2
+https://github.com/Yuvatejayeturi/Task2-EDA-Business-Intelligence
 ---
 ### Task 3: Dashboard Development
 - Power BI Dashboard
 - KPI Analysis
 - Interactive Visualizations
 Repository:
-https://github.com/username/task3
+https://github.com/Yuvatejayeturi/Task3-Deep-Dive-Analysis-Dashboard
 ---
 ### Task 4: Data Storytelling & Statistical Validation
 - Storytelling
 - Chi-square Testing
 - Business Recommendations
 Repository:
-https://github.com/username/task4
+https://github.com/Yuvatejayeturi/Task4-Data-Storytelling-Statistical-Validation
