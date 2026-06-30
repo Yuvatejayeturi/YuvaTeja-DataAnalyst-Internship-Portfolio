@@ -1,7 +1,6 @@
 # Data Analyst Internship Portfolio
 ## About Me
-Hello, I'm Yuva Teja, a Data Analyst Intern passionate about
-data analysis, visualization, and business intelligence.
+Hello! My name is Yuva Teja. I completed a Data Analyst Internship where I worked on an end-to-end Netflix Content Analysis project using Python, Power BI, and statistical analysis.
 ---
 ## Internship Tasks
 ### Task 1: Data Wrangling
@@ -31,3 +30,5 @@ https://github.com/Yuvatejayeturi/Task3-Deep-Dive-Analysis-Dashboard
 - Business Recommendations
 Repository:
 https://github.com/Yuvatejayeturi/Task4-Data-Storytelling-Statistical-Validation
+Final Reflection
+This internship provided practical experience in the complete data analysis workflow, including data preparation, exploratory analysis, dashboard development, business storytelling, and statistical validation. It significantly improved my technical, analytical, and presentation skills.
